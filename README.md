@@ -31,8 +31,7 @@ Nessa parte do cadastro do professor ele pode adicionar vários horários que el
 
 # Aprendizado
 
-A maior parte da aplicação eu já conhecia e aprendi outras forma de fazer no bootcamp. Mas a inserção de vários items na tela para os horários, confesso que achei bem legal a solução que o Diego usou!
-
+A maior parte da aplicação eu já conhecia e aprendi outras forma de fazer no bootcamp. Mas a inserção de vários items na tela para os horários, eu ainda não havia feito nenhum exemplo assim! Muito legal!
 
 
 
