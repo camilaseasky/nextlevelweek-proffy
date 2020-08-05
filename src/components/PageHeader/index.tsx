@@ -6,6 +6,7 @@ import './styles.css';
 
 interface PageHeaderProps {
   title: string;
+  description?: string;
 }
 
 const PageHeader: React.FC<PageHeaderProps> = ({children, ...props}) =>  {
@@ -20,6 +21,9 @@ const PageHeader: React.FC<PageHeaderProps> = ({children, ...props}) =>  {
 
       <div className="header-content">
         <strong>{props.title}</strong>
+        { props.description && 
+            <p>{props.description}</p>
+        }
         {children}
       </div>
   </header>
